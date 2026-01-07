@@ -1,6 +1,6 @@
 ## Živjo👋 Sem Luka, dobrodošli na mojem profilu.
 
-Sem študent Srednje šole tehniških strok Šiška.
+**Sem študent Srednje šole tehniških strok Šiška.**
 
 ###  Trenutno delam na:
 - razvoju enovstavnega **web crawlerja** v python-u
