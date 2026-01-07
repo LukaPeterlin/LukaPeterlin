@@ -1,16 +1,30 @@
-## Hi there 👋
+## Živjo👋 Sem Luka
 
-<!--
-**LukaPeterlin/LukaPeterlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Študent / razvijalec z zanimanjem za tehnologijo in reševanje problemov.  
+💻 Najraje delam na projektih, kjer se lahko učim novih stvari in izboljšujem svoje znanje.
 
-Here are some ideas to get you started:
+### 🔭 Trenutno delam na
+- osebnih projektih
+- izboljševanju znanja programiranja
+- učenju dobrih praks v razvoju programske opreme
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Trenutno se učim
+- programskih jezikov (npr. JavaScript, Python, Java – prilagodi po potrebi)
+- Git & GitHub
+- osnov backend / frontend razvoja
+
+### 👯 Sodelovanje
+- odprt za sodelovanje pri zanimivih projektih
+- hackathoni, študentski projekti, open-source
+
+### 💬 Vprašaj me o
+- programiranju
+- študiju
+- tehnologiji na splošno
+
+### 📫 Kontakt
+- GitHub: [@LukaPeterlin](https://github.com/LukaPeterlin)
+- (dodaj e-mail ali LinkedIn, če želiš)
+
+### ⚡ Fun fact
+- Rad se učim nove tehnologije in hitro izgubim občutek za čas, ko programiram 😄
