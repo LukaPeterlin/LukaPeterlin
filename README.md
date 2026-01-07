@@ -1,12 +1,12 @@
 ## Živjo👋 Sem Luka
 
-🎓 Študent 
+ Študent 
 
-### 🔭 Trenutno delam na
+###  Trenutno delam na:
 - razvoju enovstavnega **web crawlerja** v python-u
 - oblikovanju in razvoju **osebne spletne strani**
 
-### 🌱 Trenutno se učim
+###  Trenutno se učim:
 - **Python**
 - osnove **umetne inteligence (AI / Machine Learning)**.
 - Git & GitHub
