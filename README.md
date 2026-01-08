@@ -1,28 +1,29 @@
+# O meni
 
 Živjo 👋  
 Sem **Luka Peterlin**, študent **Srednje šole tehniških strok Šiška**.
 
 ---
 
-## 🚀 Trenutno delam na
+## Trenutno delam na
 - razvoju **enostavnega web crawlerja** v Pythonu  
 - oblikovanju in razvoju **osebne spletne strani**
 
 ---
 
-## 📚 Trenutno se učim
+## Trenutno se učim
 - **Python**
 - osnove **AI / Machine Learning**
 - **Git**
 
 ---
 
-## 📬 Kontakt
-📧 **peterlin.luka@gmail.com**
+## Kontakt
+ **peterlin.luka@gmail.com**
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
@@ -33,7 +34,7 @@ Sem **Luka Peterlin**, študent **Srednje šole tehniških strok Šiška**.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=LukaPeterlin&theme=neon&include_all_commits=true&count_private=true)
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=LukaPeterlin&theme=neon)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukaPeterlin&theme=neon&layout=compact)
