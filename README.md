@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Živjo👋 Sem Luka, dobrodošli na mojem profilu.<br><br>**Sem študent Srednje šole tehniških strok Šiška.**<br><br>###  Trenutno delam na:<br>- razvoju enovstavnega **web crawlerja** v python-u<br>- oblikovanju in razvoju **osebne spletne strani**<br><br>###  Trenutno se učim:<br>- **Python**<br>- osnove **umetne inteligence (AI / Machine Learning)**.<br>- Git<br><br>### Kontakt<br>- peterlin.luka@gmail.com<br>
+## Živjo👋 Sem Luka, dobrodošli na mojem profilu.<br><br>**Sem študent Srednje šole tehniških strok Šiška.**<br><br>##  Trenutno delam na:<br>- razvoju enovstavnega **web crawlerja** v python-u<br>- oblikovanju in razvoju **osebne spletne strani**<br><br>##  Trenutno se učim:<br>- **Python**<br>- osnove **umetne inteligence (AI / Machine Learning)**.<br>- Git<br><br>## Kontakt<br>- peterlin.luka@gmail.com<br>
 
 
 # 💻 Tech Stack:
