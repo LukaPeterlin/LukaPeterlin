@@ -9,7 +9,7 @@
 ###  Trenutno se učim:
 - **Python**
 - osnove **umetne inteligence (AI / Machine Learning)**.
-- Git & GitHub
+- Git
 
 ### Kontakt
 - peterlin.luka@gmail.com
