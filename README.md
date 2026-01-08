@@ -1,7 +1,6 @@
-# 💫 About Me
 
 Živjo 👋  
-Sem **Luka Peterlin**, študent **Srednje šole tehniških strok Šiška**, navdušen nad programiranjem, spletom in umetno inteligenco.
+Sem **Luka Peterlin**, študent **Srednje šole tehniških strok Šiška**.
 
 ---
 
@@ -14,14 +13,7 @@ Sem **Luka Peterlin**, študent **Srednje šole tehniških strok Šiška**, navd
 ## 📚 Trenutno se učim
 - **Python**
 - osnove **AI / Machine Learning**
-- **Git & GitHub**
-
----
-
-## 🎯 Cilji
-- poglobiti znanje **Python-a in web developmenta**
-- razvijati projekte, povezane z **AI in avtomatizacijo**
-- pridobiti praktične izkušnje skozi projekte
+- **Git**
 
 ---
 
